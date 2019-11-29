@@ -1,0 +1,14 @@
+E:\Azure-FileShare\Blobstorage\Blobstorage\bin\Debug\netcoreapp2.2\Blobstorage.deps.json
+E:\Azure-FileShare\Blobstorage\Blobstorage\bin\Debug\netcoreapp2.2\Blobstorage.runtimeconfig.json
+E:\Azure-FileShare\Blobstorage\Blobstorage\bin\Debug\netcoreapp2.2\Blobstorage.runtimeconfig.dev.json
+E:\Azure-FileShare\Blobstorage\Blobstorage\bin\Debug\netcoreapp2.2\Blobstorage.dll
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.csprojAssemblyReference.cache
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.csproj.CoreCompileInputs.cache
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.RazorAssemblyInfo.cache
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.RazorAssemblyInfo.cs
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.AssemblyInfoInputs.cache
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.AssemblyInfo.cs
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.RazorTargetAssemblyInfo.cache
+E:\Azure-FileShare\Blobstorage\Blobstorage\bin\Debug\netcoreapp2.2\Blobstorage.pdb
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.dll
+E:\Azure-FileShare\Blobstorage\Blobstorage\obj\Debug\netcoreapp2.2\Blobstorage.pdb
